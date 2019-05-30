@@ -5,11 +5,11 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "3901514763",
     "id" : "A57BCB00",
     "lastKnownWriteTime" : 1559175882,
     "last_content_update" : 1559175882190,
-    "path" : "~/project/misc/phunkmiscr/R/starwars_name_converter.R",
+    "path" : "~/project/misc/misfitr/R/starwars_name_converter.R",
     "project_path" : "R/starwars_name_converter.R",
     "properties" : {
         "cursorPosition" : "21,30",
