@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1559176032969.000,
+    "created" : 1559767580299.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "417264380",
-    "id" : "94DDE936",
-    "lastKnownWriteTime" : 1559176047,
-    "last_content_update" : 1559176047107,
+    "hash" : "4196802241",
+    "id" : "9BA826E7",
+    "lastKnownWriteTime" : 1559767590,
+    "last_content_update" : 1559767590264,
     "path" : "~/project/misc/misfitr/DESCRIPTION",
     "project_path" : "DESCRIPTION",
     "properties" : {
-        "cursorPosition" : "0,16",
+        "cursorPosition" : "10,14",
         "scrollLine" : "0"
     },
-    "relative_order" : 2,
+    "relative_order" : 3,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "dcf"

@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3901514763",
+    "hash" : "0",
     "id" : "A57BCB00",
-    "lastKnownWriteTime" : 1559175882,
-    "last_content_update" : 1559175882190,
+    "lastKnownWriteTime" : 1559182703,
+    "last_content_update" : 1559182703594,
     "path" : "~/project/misc/misfitr/R/starwars_name_converter.R",
     "project_path" : "R/starwars_name_converter.R",
     "properties" : {
-        "cursorPosition" : "21,30",
-        "scrollLine" : "9"
+        "cursorPosition" : "43,1",
+        "scrollLine" : "19"
     },
     "relative_order" : 2,
     "source_on_save" : false,

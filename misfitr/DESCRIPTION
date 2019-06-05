@@ -8,7 +8,7 @@ Description: This is just a repo for junk R code that I write while binge-watchi
     random streaming shows. It's mainly for goofing off or testing an idea. 
     Anything useful usually ends up somewhere else, so this is kind of the 
     Island of Misfit Code.
-License: GPL3.0
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.0
