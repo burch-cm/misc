@@ -4,12 +4,10 @@
 \alias{calc_tax}
 \title{Calculate US Tax Burden}
 \usage{
-calc_tax(amount, tax_table = NA, total = TRUE)
+calc_tax(amount, total = TRUE)
 }
 \arguments{
 \item{amount}{A numeric vector of the salaries against which to calculate taxes owed.}
-
-\item{tax_table}{A data.frame() with columns "lower", "upper", and "rate", corresponding to the lower and upper bounds of the income bracket and the rate at which that bracket is taxed.}
 
 \item{total}{A boolean. Should the tax burden be returned as the total owed, or as a vector of amount owed by marginal tax bracket?}
 }

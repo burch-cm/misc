@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1166503714",
+    "hash" : "673493717",
     "id" : "4932CC51",
-    "lastKnownWriteTime" : 1559767280,
-    "last_content_update" : 1559767280428,
+    "lastKnownWriteTime" : 1559769313,
+    "last_content_update" : 1559769313758,
     "path" : "~/project/misc/misfitr/R/calc_tax.R",
     "project_path" : "R/calc_tax.R",
     "properties" : {
-        "cursorPosition" : "0,0",
-        "scrollLine" : "0"
+        "cursorPosition" : "23,88",
+        "scrollLine" : "12"
     },
     "relative_order" : 2,
     "source_on_save" : false,
