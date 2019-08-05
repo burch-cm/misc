@@ -1,7 +1,7 @@
 Package: misfitr
 Type: Package
 Title: Generalized Useless Code
-Version: 0.1.1
+Version: 0.1.2
 Author: Kitt Burch
 Maintainer: Kitt Burch <kitt@vorpal.technology>
 Description: This is just a repo for junk R code that I write while binge-watching 

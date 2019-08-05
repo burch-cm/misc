@@ -14,13 +14,14 @@
 #'
 #' @param name a character vector of length 1, in format "Firstname Lastname"
 #' @param letter a vowel. If blank, a random vowel will be chosen.
-#'
+#' @param reverse logical. Should the modified last name go first? If FALSE (default)
+#' the modified first name will be first.
 #' @return a string of the memeified name in Star Wars meme format
 #' @export
 #'
 #' @examples
 #' convert_name("Mike Honcho")
-convert_name <- function(name, letter = NA) {
+convert_name <- function(name, letter = NA, reverse = FALSE) {
   .simpleCap <- function(x) {
     s <- strsplit(x, " ")[[1]]
     paste(toupper(substring(s, 1, 1)), substring(s, 2),
@@ -39,6 +40,6 @@ convert_name <- function(name, letter = NA) {
 
   last_vec  <- tolower(strsplit(first, split = '')[[1]])
   last_swn  <- tolower(paste(rev(last_vec), collapse = ''))
-
-  return(.simpleCap(paste(first_swn, last_swn, sep = ' ')))
+  if (reverse) return(.simpleCap(paste(first_swn, last_swn, sep = ' ')))
+  return(.simpleCap(paste(last_swn, first_swn, sep = ' ')))
 }

@@ -4,12 +4,15 @@
 \alias{convert_name}
 \title{Convert to Star Wars Name (a meme)}
 \usage{
-convert_name(name, letter = NA)
+convert_name(name, letter = NA, reverse = FALSE)
 }
 \arguments{
 \item{name}{a character vector of length 1, in format "Firstname Lastname"}
 
 \item{letter}{a vowel. If blank, a random vowel will be chosen.}
+
+\item{reverse}{logical. Should the modified last name go first? If FALSE (default)
+the modified first name will be first.}
 }
 \value{
 a string of the memeified name in Star Wars meme format
