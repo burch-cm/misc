@@ -1,13 +1,13 @@
 Package: misfitr
 Type: Package
 Title: Generalized Useless Code
-Version: 0.1.0
+Version: 0.1.1
 Author: Kitt Burch
 Maintainer: Kitt Burch <kitt@vorpal.technology>
 Description: This is just a repo for junk R code that I write while binge-watching 
     random streaming shows. It's mainly for goofing off or testing an idea. 
-    Anything useful usually ends up somewhere else, so this is kind of the 
-    Island of Misfit Code.
+    Useful concepts and code are often used in production projects, and useless code is accumulated for posterity, 
+    makign this repo a quasi - Island of Misfit Code.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
